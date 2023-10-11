@@ -1,17 +1,79 @@
 # History-of-World-War-II
-The Topic of this first project is centered around a dark time in the History of mankind. I decided to create this website in correlation with topics that were suggested as per our syllabus for Code Institute, that is
+The Topic of this first project is centered around a dark time in the History of mankind. I decided to create this website in correlation with topics that were suggested for our project as per our syllabus outlined by Code Institute.
 
+The Learning outcomes for this Project include, but are not limited to the following criteria :
+
+(i)   Design an interactive Front-End web application using HTML and CSS based on the principles of User experience, design, accessibility & responsivity.
+(ii)	Test a Front-End web application through the development, implementation and deployment stages.
+(iii)	Deploy a Front-End web application to a Cloud platform such as GitHub, by using Visual Studio Code, or CodeAnywhere IDE.
+(iv)	Maximise future maintainability through it's documentation, code structure and organisation.
+(v)	  Demonstrate and document the development process through a version control system such as GitHub.
 
 In this project, we are asked to try to build a static front-end website site so as to to present useful information to users, using all the technologies that we have learned about so far, that being mainly, HTML and CSS coding techniques.
 
-In this project we try to present data to help website users achieve their objectives, or goals, (e.g.) to learn about a product, a service that the User is interested in, and/or to read, enjoy and consume information and facts that the the User is interested in finding, or using. The presentation of the web site creator's data advances the site owner's objectives, or goals, for example, it helps them to market a product, or a service that the creator can offer to it's User(s).
+The creator of this website (the student) has endeavoured to provide and present data to help the website user(s) achieve their objectives, or goals (e.g.) to inform and educate themselves and to learn about a service, a place, a product, or an event that the User is interested in, and/or, for the User to read, consume and enjoy the information and facts that are provided to the the User in an interesting and enjoyable way. 
 
-As creator of this website, I have endeavoured to fulfill the criteria for this project as outlined by the Code Institute's project assessment guide, which outlines the following : (i) Build a History website (ii) The External User’s goal includes, but is not limited to being interested in the historical facts surrounding a particular Historical place, or event, a particular person and/or a particular artefact, such as the Jules Rimet Trophy that was designed and created by a French Lawyer for the winneres of the Soccer World Cup. This Historical artefact intrigues me as I have a particular interest in sports, especially Football, as well as Historical events such as the Second World War. Although theses 2 Topics are unique to themselves, I concentrated on providing a comprehensive account of the dark days in mankind's history by creating a website that gives a deep understanding and account of the Second World War which started in 1939 and lasted until September 1945.
+The presentation of the web site creator's data advances the site owner's objectives, or goals. For example, it helps them to market a product, or a service that the creator can offer to it's User(s).
 
-Site owner's goal : As creator of this website, my goal in creating this website, is to give a highly accurate, deep and realisic description and account of the terrible and horrific things that occurred during the second world war that spanned 6 years (1939 to 1945) that succumbed the world being engulfed into terror and chaos by way of War. As the creator of this site, I have also tried to provide reliable sources of information in relation to World War II by way of locating & presenting accurate information from the World Wide Web on my website for consumption by Users. I provided this information, chiefly by way of video clips, images and text from reliable sources such as www.Britannica.org and various other non-profit and government funded websites.
+As creator of this website, I have endeavoured to fulfill the criteria for this project as outlined by the Code Institute's project assessment guide, which outlines the following : 
 
-I have also included facts & reports from a vast array of journals and Historians from all around the world - with each giving their own unique account of the atrocities of the second world war.
+(i) Build a History website (ii) Goals - The External User’s goal includes, but is not limited to, being provided with Historical facts surrounding a particular Historical event, place, or a particular person, and/or a particular artefact. 
 
-This website has features which include, but are not limited to (a) Timeline of Events >> 1939 to 1945 (b) Evidence based information and facts. (c) Images, photos, videos and text supporting the facts that I have presented in my website.
+For example - some Historical events that I had considered for this project included
+------------------------------------------------------------------------------------
+The Spanish Civil War
+The Crimean War
+The Israeli Palestinian conflict
+The 1st & 2nd World Wars
+The Roman Empire
+The Irish Civil War
+The Ottoman Empire
+Former Presidents of The United States
+------------------------------------------------------------------------------
+Examples of Historical persons that I had considered for this project included
+------------------------------------------------------------------------------
+Charles Darwin
+Nelson Mandela
+Jesus Christ
+John F. Kennedy
+Michael Collins
+Archimedes & Aristotle
+Isaac Newton
+Alan Turing
+Sigmund Freud
+-------------------------------------------------------------------------------------------
+Examples of Historical Artefacts, or Places that I had considered for this project included
+-------------------------------------------------------------------------------------------
+The Shroud of Turin
+StongeHenge Wiltshire, England
+The Rosetta Stone
+The Dead Sea Scrolls
+The Jules Rimet Trophy
+The Colleseum in Rome
+Machu Picchu in Peru
+The Pyramids in Egypt
+Easter Island in The Pacific
+--------------------------------------------------------------------------------------------
 
-One of my goal's in creating this website is to also provide a User with intrigueing and highly informative facts that will preserve a User's interest in viewing this website by making this website a highlye enjoyable and memorable website to navigate and consume and to provide the User with compounding facts and accounts of the second world war that will provide positive cognitive dissonance for the User(s).  
+The **Jules Rimet Trophy** was designed and created by a French Lawyer for the winneres of the Soccer World Cup. This Historical artefact intrigues me personally, as I have a particular interest in sports, especially Football. 
+
+As I also have a passionate interest in History, I decided to build my website project around the events of the 2nd World War (1939 - 1945)
+ 
+I have endeavoured to do this by way of creating a website that gives a deep understanding and meaning to the User in relation to the events of the 2nd World War.
+
+Site owner's goal : As creator of this website, my goal in creating this website, was to give a highly accurate, deep and realisic description & account of the terrible and horrific tragedies that occurred during the 2nd World War which engulfed the world into terror and chaos. 
+
+I have also tried to provide reliable sources of information in relation to World War II by way of locating & presenting accurate information from the World Wide Web for consumption by Users. 
+
+I provided and delivered this information chiefly by way of motion picture video clips, colour images and text from reliable sources such as : www.Britannica.org and various other non-profit & government funded websites.
+
+I have also included a vast array of facts & reports from journals and Historians from all over the world - each one giving their own unique account of the 2nd world war.
+
+The objective of this website was also to provide a User with highly informative facts that would preserve a User's interest whilst viewing this website.
+
+I tried to achieve this by way of making my website an enjoyable & memorable website to read, navigate and consume by providing the User with compounding facts and eye witness accounts of the 2nd World War.
+
+This website has features which include, but are not limited to (a) Timeline of Events >> 1939 to 1945 (b) Evidence based information & facts
+(c) Images, videos and text supporting the facts that I have presented in my website.
+
+I hope you will enjoy viewing it!
